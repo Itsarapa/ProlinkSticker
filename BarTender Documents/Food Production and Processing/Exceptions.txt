@@ -1,0 +1,4 @@
+EN, coconut milk, cocoa butter, rice milk
+FR, lait de coco, beurre de cacao, lait de riz
+IT, latte di cocco, burro di cacao, latte di riso
+ES, leche de coco, mantequilla de cacao, leche de arroz
